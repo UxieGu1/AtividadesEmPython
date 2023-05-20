@@ -3,7 +3,7 @@ compradas pelo menos 12. Escreva um programa que leia o número de maçãs compr
 e escreva o custo total da compra."""
 
 
-maca = int(input("Digite a quantidade de maças que seram compradas: "))
+maca = int(input("digite a quantidade de maças compradas: "))
 
 if maca < 12:
     maca = maca * 1.30
